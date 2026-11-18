@@ -1,1 +1,1 @@
-FULL_DATA_JS_PLACEHOLDER
+window.STOCK_DATA = {"meta":{"source":"iFinD（同花顺）","generated":"2026-11-18","priceRange":"2025-11-18 ~ 2026-11-18","financialPeriod":"2026 年三季报（截至 2026-09-30）","currency":"CNY","note":"A 股前复权日线；行情与财务数据均为 iFinD 第三方数据，仅供学习参考，不构成投资建议。"},"stocks":[]};
